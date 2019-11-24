@@ -48,7 +48,7 @@ article h2 {
     padding-bottom: 5px;
     margin-left: 10%;
     text-align: center;
-    background-image: url(images/icon_group.png);
+    background-image: url("../images/icon_group.png");
     background-repeat: no-repeat;
     background-position: 50% 5px;
     width: 100px;
@@ -57,7 +57,7 @@ article h2 {
     padding-top: 55px;
     padding-bottom: 5px;
     text-align: center;
-    background-image: url(images/icon_bed.png);
+    background-image: url("../images/icon_bed.png");
     background-repeat: no-repeat;
     background-position: 50% 5px;
     width: 100px;
@@ -67,7 +67,7 @@ article h2 {
     padding-bottom: 5px;
     margin-right: 10%;
     text-align: center;
-    background-image: url(images/icon_bath.png);
+    background-image: url("../images/icon_bath.png");
     background-repeat: no-repeat;
     background-position: 50% 5px;
     width: 100px;
